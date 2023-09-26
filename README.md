@@ -13,11 +13,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shika-moriyama-1b348728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shika-moriyama-1b348728b" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikatastrophe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikatastrophe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shikatastrophe " /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikatastrophe&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikatastrophe&show_icons=true&locale=en&theme=tokyonight" alt="shikatastrophe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikatastrophe&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikatastrophe&theme=tokyonight" alt="shikatastrophe" /></p>
 
 <!--
 **Shikatastrophe/Shikatastrophe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
