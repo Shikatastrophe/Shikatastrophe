@@ -17,8 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikatastrophe&show_icons=true&locale=en&theme=tokyonight" alt="shikatastrophe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikatastrophe&theme=tokyonight" alt="shikatastrophe" /></p>
-
 <!--
 **Shikatastrophe/Shikatastrophe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
